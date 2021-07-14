@@ -3,3 +3,5 @@ second change
 =======
 first file  modified again for changes
 >>>>>>> parent of 51bde9b (new commit)
+
+third change
